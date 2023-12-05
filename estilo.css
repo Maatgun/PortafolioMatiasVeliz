@@ -438,11 +438,11 @@
             opacity: 0;
             bottom: -40px;
             transition: .5s;
+            font-size: 12PX;
         }
 
         .info a {
             color: #ff5080;
-            font-weight: 800;
         }
         
         #portfolio .fila .proyecto:hover .info {
